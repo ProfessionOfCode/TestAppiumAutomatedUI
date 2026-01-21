@@ -1,8 +1,6 @@
-﻿using Microsoft.Windows.ApplicationModel.DynamicDependency;
+﻿[assembly: WinUITestTarget(typeof(MyTestApplication.Presentation.WinUI.App))]
 
-[assembly: WinUITestTarget(typeof(MyTestApplication.Presentation.WinUI.App))]
-
-namespace MyTestApplication.Presentation.WinUI.Tests.MSTest;
+namespace MyTestApplication.WinUI.Tests;
 
 [TestClass]
 public class Initialize
