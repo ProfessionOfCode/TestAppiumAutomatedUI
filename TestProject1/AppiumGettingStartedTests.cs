@@ -3,9 +3,12 @@ using OpenQA.Selenium.Appium.Service;
 using OpenQA.Selenium.Appium.Windows;
 using System.Diagnostics;
 
-namespace TestProject1
+namespace MyTestApplication.Presentation.UI.Tests
 {
-    public class Tests
+    /// <summary>
+    /// The test class for the Appium server, Windows App SDK, WinUI app UI tests execution
+    /// </summary>
+    public class AppiumGettingStartedTests
     {
         private WindowsDriver _session;
         [SetUp]

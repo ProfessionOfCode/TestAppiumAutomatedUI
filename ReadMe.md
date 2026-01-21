@@ -1,10 +1,15 @@
-<!--Here is a comment section.-->
 # Technical Onboarding Documentation
+
 ## Project Overview
-This project is designed to provide a comprehensive solution for [describe the main purpose of the project]. 
-It leverages WinUI 3, .NET7 and .NET8 to deliver a robust and scalable application that meets the needs of professioners of code.
+
+This project is designed to provide a comprehensive solution for UI testing
+WinUI applications using Appium server.
+
+It leverages WinUI 3, .NET7 and .NET8 to deliver a robust application
+that meets the needs of professioners of code.
 
 ## Table of Contents
+
 1. [Getting Started](#getting-started)
 2. [Architecture Overview](#architecture-overview)
 3. [Technologies Used](#technologies-used)

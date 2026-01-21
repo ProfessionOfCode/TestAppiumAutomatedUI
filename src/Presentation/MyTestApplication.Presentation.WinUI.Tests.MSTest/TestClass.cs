@@ -2,7 +2,7 @@
 
 using Microsoft.UI.Xaml.Controls;
 
-namespace MyTestApplication.Presentation.WinUI.Tests.MSTest;
+namespace MyTestApplication.WinUI.Tests;
 
 // TODO: Write unit tests.
 // https://docs.microsoft.com/visualstudio/test/getting-started-with-unit-testing
