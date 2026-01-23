@@ -16,4 +16,6 @@ that meets the needs of professioners of code.
 
 - Install Appium server following [Appium's GitHub page](https://github.com/appium/appium#installation).
 
+- Install Appium inspector GUI following [Appium's inspector GitHub page](https://github.com/appium/appium-inspector).
+
 - Make sure you have a compatible version of Node.js installed.
