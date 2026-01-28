@@ -1,0 +1,25 @@
+<Project>
+	<PropertyGroup>
+		<ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageVersion Include="CommunityToolkit.Mvvm" Version="8.1.0" />
+		<PackageVersion Include="Microsoft.Extensions.Hosting" Version="6.0.1" />
+		<PackageVersion Include="Microsoft.WindowsAppSDK" Version="1.4.231008000" />
+		<PackageVersion Include="Microsoft.Xaml.Behaviors.WinUI.Managed" Version="2.0.9" />
+		<PackageVersion Include="WinUIEx" Version="2.3.2" />
+		<PackageVersion Include="Newtonsoft.Json" Version="13.0.1" />
+		<PackageVersion Include="Appium.WebDriver" Version="8.0.1" />
+		<PackageVersion Include="coverlet.collector" Version="6.0.4">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageVersion>
+		<PackageVersion Include="Microsoft.NET.Test.Sdk" Version="18.0.1" />
+		<PackageVersion Include="NUnit" Version="4.4.0" />
+		<PackageVersion Include="NUnit.Analyzers" Version="4.11.2">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageVersion>
+		<PackageVersion Include="NUnit3TestAdapter" Version="6.1.0" />
+	</ItemGroup>
+</Project>
